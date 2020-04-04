@@ -18,7 +18,7 @@
     "level-min": "^0.2.2",
     "level-ws": "^0.1.0",
     "lz-string": "^1.4.4",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.3",
     "moment": "^2.22.1",
     "net": "^1.0.2",
     "redis": "^2.8.0",
